@@ -1,6 +1,6 @@
 package main;
 
-public interface Sorted {
+public interface Sorted_merge {
     public static int[] sortArray(int[] array) {
         if (array == null) {
             return null;
